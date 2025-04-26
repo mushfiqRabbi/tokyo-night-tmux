@@ -67,7 +67,7 @@ hostname="#($SCRIPTS_PATH/hostname-widget.sh)"
 
 #+--- Bars LEFT ---+
 # Session name
-tmux set -g status-left ""
+tmux set -g status-left " "
 
 #+--- Windows ---+
 # Focus
